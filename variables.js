@@ -14,3 +14,7 @@ console.log(name)
 console.log(workSucked)
 console.log(codingDoesNot)
 console.log(lastName)
+
+lastName = "Modlin-Filippi";
+
+console.log(Modlin-Filippi)
