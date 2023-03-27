@@ -17,4 +17,4 @@ console.log(lastName)
 
 lastName = "Modlin-Filippi";
 
-console.log(Modlin-Filippi)
+console.log(lastName)
